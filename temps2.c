@@ -38,7 +38,7 @@ int main(void)
         scanf("%d", &lowtemp[i]);      //scanner for the low temperature 
     }
     printf("\n");
-    printf("Day  Hi Low\n");     // output day, high, and low
+    printf("Day  Hi  Low\n");     // output day, high, and low
 
     for(i = 0; i < days; i++) 
     {
