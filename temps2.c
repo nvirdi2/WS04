@@ -17,6 +17,7 @@ int main(void)
     printf("Please enter the number of days, between 3 and 10, inclusive: ");    //output question for the user to enter the amount of days 
     scanf("%d", &days);    // scanner for days
 
+    printf("\n");
     while (!(days >= 3 && days <= 10))   //when the user gives a value that are not in between 3 - 10
     {
         printf("Invalid entry, please enter a number between 3 and 10, inclusive: ");   // then the question is re-asked
