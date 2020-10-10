@@ -43,7 +43,7 @@ int main(void)
     for(i = 0; i < days; i++) 
     {
         //parallel array output 
-        printf(("%d   %d   %d\n"),
+        printf(("%d    %d    %d\n"),
              i+1, hightemp[i], lowtemp[i]); 
     }
 return 0;
