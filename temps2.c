@@ -61,9 +61,10 @@ int main(void)
         if(lowtemp[i] < lowtemp[Lowlocation])   //get the low temperature on a day 
         Lowlocation = i;
     }
+    printf("\n");
     printf("The highest temperature was %d, on day %d \n",hightemp[Highlocation], Highlocation + 1);  //display the high temperature on a day
     printf("The lowest temperature was %d, on day %d \n",lowtemp[Lowlocation], Lowlocation + 1);    //display the low temperature on a day
-
+    printf("\n");
     do {
 
         printf("Enter a number between 1 and %d to see the average temperature "
