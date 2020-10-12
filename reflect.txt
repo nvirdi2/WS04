@@ -1,0 +1,28 @@
+Name:Navdeep Virdi
+Student Number: 166485193
+Email:nvirdi2@myseneca.ca
+Section: NAA_home
+Workshop: 4
+
+Work shop 4 reflection
+    In this workshop I have learned how to create arrays and parallel arrays. The use of 
+Arrays made it easier to take in values and organize them in the table. This made it easier to 
+read the variable and see what value is for what day. The array organized the variable of high and
+low temperature of the following day. An alternative way to create the same table with the values
+would have taken a longer time and process. I would have created a a lot of printf statements and then 
+I would have made many if, else loops. The array made it easier to take the values and display them 
+because I did not have to go the long way. 
+
+    Parallel arrays were in the starting hard to understand and process. However, when I got the values
+and I got how to print out the statement, I was then able to create the parallel array and that made it easier
+to organize the values for each of the following days. The values looked very clean and for the user it was much more
+organized to read. The idea of a parallel array was much more efficient and the values were much more clean. 
+However, as amazing as arrays are the part that made it hard was if there was more variables. When there are more variables
+it would be hard to go across to the table and not mess up. 
+
+    It is good to practice looping and arrays because when it comes to simple problems you do not want to sit there
+and create a long program that loops forevers. It is good to practice iterator variable as zero because then later on 
+you can add to the variables. Also, you can define a a number with a certain variable in one loop and then later change it in the 
+other loop. However, you would just need declare the variable once and then later on assign it the number you would want to. 
+This practice makes it easier because then you would not have to keep declaring it for each loop and it would already be there 
+made before hand. All you would have to do is use it in your loop. 
